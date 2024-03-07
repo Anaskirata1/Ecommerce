@@ -1,0 +1,1 @@
+to login as a admin make the value of the usertype  column in user table 1
